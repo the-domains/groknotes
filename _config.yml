@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.8021067407927698
+  lightness: 0.32099274166016867
+  rhythmicContrast: 0.06499765464425089
+  saturation: 0.5334555457552427
+cta: {}
+layout_spectrum: 0.6315119362446684
+name: groknotes
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.7051125311417876
