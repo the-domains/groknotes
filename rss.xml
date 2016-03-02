@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[groknotes]]></title>
+        <description><![CDATA[groknotes]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 02 Mar 2016 19:54:55 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Genesis]]></title>
+            <description><![CDATA[<article><h1>Genesis</h1><p>I need a better markdown editor/viewer on android.  Thus, Grok Notes is born!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7b6d421f08d3ae3a160787ea051e6a0edfd913e2.png"></article>]]></description>
+            <link>undefinedgenesis/index.html</link>
+            <guid isPermaLink="false">e604e561-3385-46cc-9818-b0bc7e8d7ee7</guid>
+            <pubDate>Wed, 02 Mar 2016 19:54:32 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
